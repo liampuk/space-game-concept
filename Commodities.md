@@ -1,5 +1,5 @@
 # Commodities
-Commodities are tradable items, some of which can be used to produce other items. Other items exist in different categories (notably **ships** and **buildings**). Commodities can be farmed or produced using buildings.
+Commodities are tradable items, some of which can be used to produce other items. Other items exist in different categories (notably **ships** and **buildings**). Commodities can be farmed or produced using buildings. Inspiration from Factorio.
 
 - **Food**
 - **Materials**
@@ -43,5 +43,20 @@ Raw or processed. Used to make **goods**. Also used to make **ships** and **buil
 
 ## Goods
 There are many types of goods:
-- weapons
-- luxuries
+- Ship Modules
+    - Weapons
+    - Engines
+    - Scanners
+    - Power plant
+- Luxuries
+- Tech
+- >TODO add more
+
+***
+
+## Information
+Information is mostly obtained through exploration (discovering civs grants tech, discovering new planets grants exploration data). Can also be produced (research, software).
+
+- Exploration data
+- Discoveries (blueprints? Technologies?)
+- Software
