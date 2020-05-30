@@ -1,6 +1,6 @@
 # Space Game (temp title)
 
-Initial concepts for a multiplayer space colonisation game.
+Initial concept for a multiplayer space colonisation game.
 
 The game world will be a version of the milky way, merging actual star data with generated stars to pad out the galaxy (similar to elite dangerous). Each system will have a random number of planets, each with procedurally generated properties and terrain.
 
