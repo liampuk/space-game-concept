@@ -20,7 +20,4 @@ The space exploration concept is inspired by Elite Dangerous and its galaxy map:
 
 ![galaxy](https://pbs.twimg.com/media/D0MtLA6WwAMYNrc?format=jpg)
 
-
-
-
 ***I have never developed a game (other than 2048) so this will likely take some time/not happen.***
