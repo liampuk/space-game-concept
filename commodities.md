@@ -6,8 +6,6 @@ Commodities are tradable items, some of which can be used to produce other items
 - **Goods**
 - **Information**
 
-***
-
 ## Food
 Natural or artificial. Natural requires more land but sells for more. 5 food groups, need balance. Food is used in restaurants to make meals
 
@@ -16,8 +14,6 @@ Natural or artificial. Natural requires more land but sells for more. 5 food gro
 - Grains
 - Meat
 - Dairy
-
-***
 
 ## Materials
 Raw or processed. Used to make **goods**. Also used to make **ships** and **buildings** (though both are not commodities).
@@ -39,8 +35,6 @@ Raw or processed. Used to make **goods**. Also used to make **ships** and **buil
 - Plastics (oil)
 - Carbon Fibre (coal)
 
-***
-
 ## Goods
 There are many types of goods:
 - Ship Modules
@@ -51,8 +45,6 @@ There are many types of goods:
 - Luxuries
 - Tech
 - >TODO add more
-
-***
 
 ## Information
 Information is mostly obtained through exploration (discovering civs grants tech, discovering new planets grants exploration data). Can also be produced (research, software).
