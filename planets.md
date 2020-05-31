@@ -1,0 +1,5 @@
+- atmosphere
+- resources
+- generation
+- city claiming
+- city growth

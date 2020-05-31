@@ -18,25 +18,26 @@ Natural or artificial. Natural requires more land but sells for more. 5 food gro
 ## Materials
 Raw or processed. Used to make **goods**. Also used to make **ships** and **buildings** (though both are not commodities).
 
-### Raw
-- Iron/ore
-- Copper/ore
-- Aluminium/ore (bauxite)
-- Coal/ore
-- Uranium/ore
-- Stone
-- Wood
-- Oil
-- Water
-
-### Processed
-- Steel (iron+coal)
-- Wire (copper)
-- Plastics (oil)
-- Carbon Fibre (coal)
+- Raw
+    - Iron/ore
+    - Copper/ore
+    - Aluminium/ore (bauxite)
+    - Coal/ore
+    - Uranium/ore
+    - Stone
+    - Wood
+    - Oil
+    - Water
+- Processed
+    - Steel (iron+coal)
+    - Sheet (iron, steel, aluminium)
+    - Wire (copper)
+    - Plastics (oil)
+    - Carbon Fibre (coal)
 
 ## Goods
 There are many types of goods:
+
 - Ship Modules
     - Weapons
     - Engines
