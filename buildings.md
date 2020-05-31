@@ -1,5 +1,5 @@
 # Buildings
-> [back to readme](README.md)
+> [<< back to readme](README.md)
 
 Buildings can be placed in settlements to provide services (ie. a ship hangar) or functions (ie. factories). Certain buildings will enable zoning of land (ie. farms). Buildings can be upgraded. On a world without a suitable atmosphere (or a world that hasn't been terraformed) Buildings will require canopies and so cost slightly more to build. Buildings produce pollution which affects the atmosphere (and population happiness). Buildings exist in several categories:
 
@@ -110,7 +110,7 @@ Some worlds will have alien populations. If the player is hostile to them (can e
 - Barracks (manned)
 
 ## Special
-Special buildings provide large functions to the settlements.
+Special buildings provide extra functions to settlements.
 
 - spaceship factory (lategame alternative to buying ships)
 - spaceship hangar (store multiple ships)

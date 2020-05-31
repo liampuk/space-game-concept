@@ -1,5 +1,5 @@
 # Commodities
-> [back to readme](README.md)
+> [<< back to readme](README.md)
 
 Commodities are tradable items, some of which can be used to produce other items. Other items exist in different categories (notably **ships** and **buildings**). Commodities can be farmed or produced using buildings. Inspiration from Factorio.
 
