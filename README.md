@@ -6,4 +6,10 @@ The game world will be a version of the milky way, merging actual star data with
 
 Players will be able to colonise the planets, building up their civilisations and vying for control of their planet and it's system. Most of the gameplay will be split between civ management of their settlements, and flying their ship to trade/fight/explore/settle new worlds (a la FTL/Elite Dangerous).
 
+## Contents:
+- [commodities](commodities.md)
+- [buildings](buildings.md)
+
+
+
 I have never developed a game (other than 2048) so this will likely take some time/not happen.
