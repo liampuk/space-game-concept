@@ -9,6 +9,7 @@ Players will be able to colonise the planets, building up their civilisations an
 ## Contents:
 - [commodities](commodities.md)
 - [buildings](buildings.md)
+- [planets](planets.md)
 
 ## Inspiration
 
