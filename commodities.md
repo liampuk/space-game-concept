@@ -1,7 +1,7 @@
 # Commodities
 > [<< back to readme](README.md)
 
-Commodities are tradable items, some of which can be used to produce other items. Other items exist in different categories (notably **ships** and **buildings**). Commodities can be farmed or produced using buildings. Inspiration from Factorio.
+Commodities are tradable items, some of which can be used to produce other items. Other items exist in different categories (notably **ships** and **buildings**). The availability of natural commodities will depend on a planet's make-up (e.g. geology, atmosphere, temperature). Commodities can be farmed or produced using buildings. Inspiration from Factorio.
 
 - **Food**
 - **Materials**
