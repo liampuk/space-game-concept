@@ -1,0 +1,1 @@
+- size of settler ship dictates difficulty setting for new settlements (ie. bring more materials/people - easier).
